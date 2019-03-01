@@ -1,0 +1,1 @@
+{"index.js":"function largestOfFour(arr) {\n  let newarr= [];\n  for (var value of arr) {\n    let max=-9999999999;\n    value.forEach(function (num) {\n    if (max<num){\n      max=num;\n    }\n\n    });\n    newarr.push(max);\n  }\n  return newarr;\n}\n\nlargestOfFour([[17, 23, 25, 12], [25, 7, 34, 48], [4, -10, 18, 21], [-72, -3, -17, -10]]);"}
