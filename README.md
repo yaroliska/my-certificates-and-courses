@@ -6,9 +6,9 @@ sololearn public account - https://www.sololearn.com/Profile/3807897
 # My books
 КОВОДСТВО - Артемий Лебедев (https://www.litres.ru/artemiy-lebedev/kovodstvo/)
 
-Артём Горбунов: "Типографика и вёрстка" (https://bureau.ru/projects/book-typography/)
+Артём Горбунов: "Типографика и вёрстка" (https://bureau.ru/projects/book-typography/) (Russian)
 
-Илья Бирман: "Пользовательский интерфейс" (https://bureau.ru/projects/book-ui/)
+Илья Бирман: "Пользовательский интерфейс" (https://bureau.ru/projects/book-ui/) (Russian)
 
 # Articals
 1.http://prgssr.ru/development/razrabotka-rasshiryaemyh-komponentov-html-i-css.html - about components and patterns (Russian) (https://css-tricks.com/developing-extensible-html-css-components/) - the same (English)
@@ -21,7 +21,7 @@ sololearn public account - https://www.sololearn.com/Profile/3807897
 
 2.https://htmlacademy.ru/program - a good resource (Russian).
 
-3.https://www.sololearn.com/ - good program for beginning skills
+3.https://www.sololearn.com/ - good program for beginning skills (Russian/English)
 
 # npm:
 1.https://github.com/webpack-contrib/extract-text-webpack-plugin - extract-text-webpack-plugin (helps to split css from js);
